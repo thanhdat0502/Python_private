@@ -51,7 +51,7 @@ class Ward:
 student1 = student("Mai Van Thanh Dat", 19, "sinh vien")
 teacher1 = teacher("Le Dinh Van ", 36, "Giao vien Hoa")
 doctor1 = doctor("Mai Thi Mai Phuong", 32, "Tai mui hong")
-teacher2 = teacher(" nguyen Doan Dung30", 35, "Giao vien Ly")
+teacher2 = teacher(" nguyen Doan Dung", 35, "Giao vien Ly")
 doctor2 = doctor("Nguyen manh Trương" , 32, "gây mê")
 
 Ward1 = Ward("Phong 1")
